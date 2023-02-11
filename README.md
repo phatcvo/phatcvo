@@ -1,6 +1,6 @@
 ### WELCOME TO MY HUB 👋👋👋
 
- [![Edu. Site](https://i.stack.imgur.com/tskMh.png) Edu. Site](https://phatcvo.github.io/)
+[![Edu. Site](https://img.shields.io/website/http/www.website.com/path/to/page.html.svg)](https://phatcvo.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vophat0607@gmail.com)](mailto:vophat0607@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phatcvo/)](https://www.linkedin.com/in/phatcvo/)
 

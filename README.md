@@ -1,4 +1,21 @@
-### WELCOME TO MY HUB 👋👋👋
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class Bio:
+
+    def __init__(self):
+        self.name = "Cong Phat Vo"
+        self.role = "Reasearcher"
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = Bio()
+me.say_hi()
+```
 
 [![Edu. Site](https://img.shields.io/website/http/www.website.com/path/to/page.html.svg)](https://phatcvo.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vophat0607@gmail.com)](mailto:vophat0607@gmail.com)
@@ -6,7 +23,6 @@
 
 <!-- ![Phat's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phatcvo&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phatcvo&layout=compact&langs_count=8&theme=dracula)](https://github.com/phatcvo)
-
 
 
 

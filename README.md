@@ -12,7 +12,7 @@ class Bio:
         self.website = "phatcvo.github.io"
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Welcome to my hub! Sharing my passion.")
 
 
 me = Bio()

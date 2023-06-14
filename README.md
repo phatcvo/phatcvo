@@ -8,6 +8,8 @@ class Bio:
     def __init__(self):
         self.name = "Cong Phat Vo"
         self.role = "Reasearcher"
+        self.email = "vophat0607@gmail.com"
+        self.website = "phatcvo.github.io"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -18,7 +20,6 @@ me.say_hi()
 ```
 
 [![Edu. Site](https://img.shields.io/website/http/www.website.com/path/to/page.html.svg)](https://phatcvo.github.io/)
-[![Gmail Badge vophat0607@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vophat0607@gmail.com)](mailto:vophat0607@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phatcvo/)](https://www.linkedin.com/in/phatcvo/)
 
 <!-- ![Phat's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phatcvo&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->

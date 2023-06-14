@@ -7,7 +7,7 @@ class Bio:
 
     def __init__(self):
         self.name = "Cong Phat Vo"
-        self.role = "Reasearcher"
+        self.role = "Researcher"
         self.email = "vophat0607@gmail.com"
         self.website = "phatcvo.github.io"
 

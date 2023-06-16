@@ -25,7 +25,7 @@ me.say_hi()
 <!-- ![Phat's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phatcvo&show_icons=true&theme=tokyonight&hide=contribs,prs,issues) -->
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phatcvo&layout=compact&langs_count=8&theme=dracula)](https://github.com/phatcvo)
 
-[![PhatCVo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phatcvo)](https://github.com/phatcvo)
+<!--  [![PhatCVo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phatcvo)](https://github.com/phatcvo) -->
 
 <!-- <a href="https://github.com//">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=" />

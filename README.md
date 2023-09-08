@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phat</h1>
-- 👨‍💻 My pesional page is available at [https://phatcvo.github.io/](https://phatcvo.github.io/)
+- 👨‍💻 My pesional page is available at [link](https://phatcvo.github.io/)
 
-- 📝 I regularly write articles on [https://vocongphat.blogspot.com/](https://vocongphat.blogspot.com/)
+- 📝 I regularly write articles [here (vietnamses)](https://vocongphat.blogspot.com/)
 
 - 📫 How to reach me **vophat0607@gmail.com**
 

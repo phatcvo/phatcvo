@@ -2,7 +2,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class Bio:
 
     def __init__(self):
@@ -13,7 +12,6 @@ class Bio:
 
     def say_hi(self):
         print("Welcome to my hub! Sharing my passion.")
-
 
 me = Bio()
 me.say_hi()

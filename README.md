@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phat</h1>
-- 👨‍💻 My pesional page is available at [link](https://phatcvo.github.io/)
+- 👨‍💻 My personal page is available at [[link](https://phatcvo.github.io/)]link
 
 - 📝 I regularly write articles [here (vietnamses)](https://vocongphat.blogspot.com/)
 

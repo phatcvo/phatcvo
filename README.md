@@ -1,23 +1,3 @@
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class Bio:
-
-    def __init__(self):
-        self.name = "Cong Phat Vo"
-        self.role = "Researcher"
-        self.email = "vophat0607@gmail.com"
-        self.website = "phatcvo.github.io"
-
-    def say_hi(self):
-        print("Welcome to my hub! Sharing my passion.")
-
-me = Bio()
-me.say_hi()
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phatcvo&layout=compact&langs_count=8&theme=dracula)](https://github.com/phatcvo)
-```
-
 [![Edu. Site](https://img.shields.io/website/http/www.website.com/path/to/page.html.svg)](https://phatcvo.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phatcvo/)](https://www.linkedin.com/in/phatcvo/)
 

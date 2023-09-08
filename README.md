@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Phat</h1>
-- 👨‍💻 My personal page is available at [[link](https://phatcvo.github.io/)]link
 
-- 📝 I regularly write articles [here (vietnamses)](https://vocongphat.blogspot.com/)
+- 👨‍💻 My personal page is available at [link](https://phatcvo.github.io/)
+
+- 📝 I regularly write articles [here](https://vocongphat.blogspot.com/) on Vietnamese
 
 - 📫 How to reach me **vophat0607@gmail.com**
 

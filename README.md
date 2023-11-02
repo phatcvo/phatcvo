@@ -1,6 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Phat%20C.%20Vo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Robotic|Mobility&descAlignY=55&descAlign=72.8)-->
 <!--- snake -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=73C2F7&random=false&width=429&lines=Hi+there!+I'm+Phat+C.+Vo" alt="Typing SVG" /></a>
 <!-- <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>

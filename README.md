@@ -19,6 +19,4 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phatcvo&layout=compact&langs_count=8&theme=dracula)](https://github.com/phatcvo) <img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </div>
-<div align="center">
-  <a href="https://phatcvo.github.io/" target="_blank"><img src="https://github.com/p-w/p-w/raw/main/intro.gif" alt="👋 Hi there! I'm (Cong-Phat Vo)|https://phatcvo.github.ig)" title="👋 Hi there! I'm (Phat C(ong). Vo|https://phatcvo.github)"/></a>
-</div>
+

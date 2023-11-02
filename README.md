@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Phat%20C.%20Vo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Robotic|Mobility&descAlignY=55&descAlign=72.8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Phat%20C.%20Vo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Robotic|Mobility&descAlignY=55&descAlign=72.8)
 <div align=center>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 

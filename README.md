@@ -1,6 +1,5 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Phat%20C.%20Vo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Robotic|Mobility&descAlignY=55&descAlign=72.8)-->
 <!--- snake -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Hi+there!,+I'm+Phat+C.+Vo+..&hearts;++;Robotic+and+Mobility+Engineer,;Active+Learner/Researcher,;Video+Editor,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -22,4 +21,4 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phatcvo&layout=compact&langs_count=8&theme=dracula)](https://github.com/phatcvo) <img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

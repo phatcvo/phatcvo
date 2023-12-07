@@ -1,7 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Phat%20C.%20Vo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Robotic|Mobility&descAlignY=55&descAlign=72.8)-->
 <!--- snake -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+I'm+Cong+Phat+Vo,++;Robotics+and+Mobility+Researcher,+Active+Learner,+Video+Editor,;Love+to+learn+new+stuffs...&hearts&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+I'm+Cong+Phat+Vo,++;Robotics+and+Mobility+Researcher,;Active+Learner,+Video+Editor,;Love+to+learn+new+stuffs...&hearts&hearts"></a>
 </p>
 <!-- <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"

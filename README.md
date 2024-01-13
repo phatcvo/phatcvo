@@ -22,5 +22,5 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phatcvo&layout=compact&langs_count=8&theme=dracula)](https://github.com/phatcvo) <img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </div>
 
-<figure><embed src="https://wakatime.com/share/@phatcvo/b36e0891-2df8-4f44-99c3-e471a8fb6d04.svg"></embed></figure>
+
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->

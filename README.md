@@ -19,7 +19,7 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   </p> -->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phatcvo&layout=compact&langs_count=8&theme=dracula)](https://github.com/phatcvo) <img width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/demartini/demartini/master/code.gif" />
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phatcvo&layout=compact&langs_count=8&theme=dracula)](https://github.com/phatcvo) <img width=190px height=190px alt="side_sticker" src="https://raw.githubusercontent.com/demartini/demartini/master/code.gif" />
 <img alt="side_sticker" src="https://wakatime.com/share/@phatcvo/38c8cc54-6c29-4c4f-9194-857c2cbc2836.svg" />
 </div>
 <!--https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif-->

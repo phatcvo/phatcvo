@@ -22,8 +22,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phatcvo&layout=compact&langs_count=8&theme=dracula)](https://github.com/phatcvo) <img width=120px height=190px alt="side_sticker" src="https://raw.githubusercontent.com/phatcvo/phatcvo/master/code2.gif" style="border-radius: 15px;"/><img width=190px height=190px alt="side_sticker" src="https://raw.githubusercontent.com/phatcvo/phatcvo/master/code3.gif" style="border-radius: 15px;"/> -->
 <img alt="side_sticker" src="https://wakatime.com/share/@phatcvo/38c8cc54-6c29-4c4f-9194-857c2cbc2836.svg" style="border-radius: 15px;"/>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,docker,linux,md,py,ros,ubuntu,cmake,bash,matlab)](https://skillicons.dev)
 </div>
 <!--https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif-->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<p align="center">[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,docker,linux,md,py,ros,ubuntu,cmake,bash,matlab)](https://skillicons.dev)</p>
+

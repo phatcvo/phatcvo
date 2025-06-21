@@ -26,3 +26,4 @@
 <!--https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif-->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,docker,linux,md,py,ros,ubuntu,cmake,bash,matlab)](https://skillicons.dev)

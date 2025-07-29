@@ -28,6 +28,6 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,docker,md,py,matlab,ros,ubuntu,cmake,bash" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,docker,gitlab,arduino,py,matlab,mysql,pytorch,qt,ros,ubuntu,cmake,bash,md" alt="My Skills" />
   </a>
 </p>
